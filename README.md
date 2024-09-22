@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sahasra21200
 - 👀 I’m interested in Machine Learning, Data Science, Deep Learning
-- 🌱 I’m currently learning Docker basics
 - 💞️ I’m looking to collaborate .
 
 
